@@ -2,6 +2,8 @@
 
 React version 18.2.0   React-redux version 8.0.2
 
+> 推荐使用**移动端分辨率打开**
+
 ### Using Create React App
 
 The recommended way to start new apps with React Redux is by using the [official Redux+JS/TS templates](https://github.com/reduxjs/cra-template-redux) for [Create React App](https://github.com/facebook/create-react-app), which takes advantage of [Redux Toolkit](https://redux-toolkit.js.org/).
@@ -16,7 +18,11 @@ npx create-react-app my-app --template redux-typescript
 
 ### screenshot
 
+<img src="https://github.com/caro1xxx/Redux-tutorials-demo/blob/main/screenshot/1.png?raw=true" alt="40" style="zoom:33%;" />
 
+<img src="https://github.com/caro1xxx/Redux-tutorials-demo/blob/main/screenshot/2.png?raw=true" style="zoom:33%;" />
+
+<img src="https://github.com/caro1xxx/Redux-tutorials-demo/blob/main/screenshot/3.png?raw=true" style="zoom:33%;" />
 
 ### License
 
